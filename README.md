@@ -1,5 +1,9 @@
 # Qualitative Baseline Analysis: Community Security Perceptions in Post-Conflict Areas
 
+## Overview
+
+This project presents a qualitative baseline analysis conducted to understand community perceptions of safety, trust in security actors, and access to essential services in post-conflict areas in Somalia. The findings aim to inform evidence-based programming and security sector interventions.
+
 ## Table of Contents
 1. [Project Overview](#Project-Overview)
 2. [Objectives](#Objectives)
